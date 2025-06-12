@@ -1,5 +1,3 @@
-# Adventure-work-Azure-project
-
 # Azure End-to-End Data Engineering Project – AdventureWorks
 
 ![Architecture](./037698aa-e0e4-4def-b26e-f5fa1f54c9d4.png)
